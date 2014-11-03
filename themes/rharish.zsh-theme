@@ -1,6 +1,7 @@
-# robbyrussell.zsh-theme
-# modified by R. Harish Navnit
-#------------------------------
+# Theme by Robby Russel(robbyrussell.zsh-theme)
+# Modified by R. Harish Navnit
+# References : https://github.com/dnivra/oh-my-zsh/blob/master/themes/dnivra.zsh-theme
+#------------------------------------------------------------------------------------------------------------------------------------
 
 
 local ret_status="%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜ %s)"
